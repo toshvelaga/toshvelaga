@@ -1,6 +1,6 @@
 ### Hi there 👋🏽
 
-![Colorful image](/toshvelaga/95697.jpg?raw=true "Optional Title")
+![Colorful image](95697.jpg?raw=true)
 
 
 - 🔭 I’m currently working on building software as a freelancer
