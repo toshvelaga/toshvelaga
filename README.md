@@ -1,8 +1,5 @@
 ### Hi there 👋🏽
 
-![ScreenShot](./95697.jpg?raw=true)
-
-
 - 🔭 I’m currently working on building software as a freelancer
 - 🌱 I’m currently looking to work at a startup
 - 🌮 My favorite type of food is 🇲🇽
