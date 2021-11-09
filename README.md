@@ -1,9 +1,10 @@
 ### Hi there 👋🏽
 
-- 🎥 Currently building [ohmystream](ohmystream.co)
-- 🌮 My favorite type of food is 🇲🇽
+- 🎥 Currently building [Ohmystream](ohmystream.co)
 - 💜 Programming is my passion 
-- 📫 How to reach me: toshvelaga@gmail.com
+- 📓 [Technical Writing](https://medium.com/@toshvelaga)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I was once featured in the Verge
+- 📫 How to reach me: toshvelaga@gmail.com
+
 
