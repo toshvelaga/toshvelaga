@@ -1,6 +1,6 @@
 ### Hi there 👋🏽
 
-- 🔭 I’m currently building software as a SWE
+- 🎥 Currently building [ohmystream](ohmystream.co)
 - 🌮 My favorite type of food is 🇲🇽
 - 💜 Programming is my passion 
 - 📫 How to reach me: toshvelaga@gmail.com
