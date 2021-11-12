@@ -1,6 +1,6 @@
 ### Hi there 👋🏽
 
-- 🎥 Currently building [Ohmystream](ohmystream.co)
+- 🎥 Currently building [Ohmystream](https://ohmystream.co/)
 - 💜 Programming is my passion 
 - 📓 [Technical Writing](https://medium.com/@toshvelaga)
 - 😄 Pronouns: he/him
