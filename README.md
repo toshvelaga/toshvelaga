@@ -1,6 +1,6 @@
 ### Hi there 👋🏽
-- 🏦 Currently working at a YC fintech/crypto startup 
-- 🎥 Previously built [Ohmystream](https://ohmystream.co/)
+- 🧲 Currently building [Everylead.ai](everylead.ai)
+- 🎥 Previously worked at a YC startup and built [Ohmystream](https://ohmystream.co/)
 - 💜 Programming is my passion 
 - 📓 [Technical Writing](https://medium.com/@toshvelaga)
 - 😄 Pronouns: he/him
