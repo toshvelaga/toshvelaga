@@ -1,5 +1,5 @@
 ### Hi there 👋🏽
-- 🧲 Currently building [Everylead.ai](everylead.ai)
+- 🧲 Currently building [Typeblock](Typeblock.co)
 - 🎥 Previously worked at a YC startup and built [Ohmystream](https://ohmystream.co/)
 - 💜 Programming is my passion 
 - 📓 [Technical Writing](https://medium.com/@toshvelaga)
