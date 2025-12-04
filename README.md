@@ -1,10 +1,9 @@
 ### Hi there 👋🏽
-- 🧲 Currently building [Typeblock](Typeblock.co)
-- 🎥 Previously worked at a YC startup and built [Ohmystream](https://ohmystream.co/)
+- 🎥 Previously worked at a YC startup and built an open source restreaming software
 - 💜 Programming is my passion 
 - 📓 [Technical Writing](https://medium.com/@toshvelaga)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I was once featured in the Verge
+- ⚡ Fun fact: Featured in the Verge for innovations in facial recognition
+- 🚀 Exit: Sold Adjustleads.com 
 - 📫 How to reach me: toshvelaga@gmail.com
 
 
